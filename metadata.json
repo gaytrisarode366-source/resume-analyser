@@ -1,0 +1,6 @@
+{
+  "name": "AI Placement Agent",
+  "description": "From Resume to Role to Interview — One AI Career Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
